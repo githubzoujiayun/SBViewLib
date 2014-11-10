@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="gray">#cecece</color>
+    <color name="light_gray">#edf0ea</color>
+    <color name="login_blue">#6cc5e9</color>
+    <color name="login_title_color">#353f4c</color>
+    <color name="login_gray_color">#808080</color>
+    <color name="login_edit_has_content">#4c4c4c</color>
+    <color name="login_other_bg">#fcfcfc</color>
+    <color name="login_title2_color">#0a0a0a</color>
+    <color name="wrong_title_color">#ff5c36</color>
+    <color name="login_font">#6dc108</color>
+    <color name="select_intent_way_line">#ececec</color>
+    <color name="aync_gray">#c7c7c7</color>
+    <color name="aync_red">#ff6c8f</color>
+    <color name="ct_orange">#ff7301</color>
+    <color name="aync_phone_line">#d1d6e1</color>
+    <color name="circle_bg">#d6e2ee</color>
+
+</resources>
